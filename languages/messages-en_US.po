@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-02 21:37+0000\n"
+"PO-Revision-Date: 2020-06-02 21:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (USA)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: gu_IN\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: admin/partials\n"
+"X-Poedit-SearchPath-1: public/partials\n"
+"\n"
+"X-Loco-Parser: loco_parse_mo"
+
+msgid "Access Code"
+msgstr "Access Code"
+
+msgid "Add New"
+msgstr "Add New"
+
+msgid "Add New Room"
+msgstr "Add New Room"
+
+msgid "All Rooms"
+msgstr "All Rooms"
+
+msgid ""
+"BigBlueButton works best with the heartbeat API enabled. Please enable it."
+msgstr ""
+"BigBlueButton works best with the heartbeat API enabled. Please enable it."
+
+msgid "Collapse recordings"
+msgstr "Collapse recordings"
+
+msgid "Default server settings 1. Default server settings 2."
+msgstr ""
+"Note that the values included by default are using a FREE BigBlueButton "
+"server provided by Blindside Networks. They have to be replaced with the "
+"parameters obtained from a server better suited for production."
+
+msgid "Displays a BigBlueButton login form."
+msgstr "Displays a BigBlueButton login form."
+
+msgid "Edit Room"
+msgstr "Edit Room"
+
+msgid "EndPoint"
+msgstr "EndPoint"
+
+msgid "Example"
+msgstr "Example"
+
+msgid "Expand recordings"
+msgstr "Expand recordings"
+
+msgid "Failed to import the room, %s."
+msgstr "Failed to import the room, %s."
+
+msgid "Filter rooms list"
+msgstr "Filter rooms list"
+
+msgid "Insert into room"
+msgstr "Insert into room"
+
+msgid ""
+"It is currently not possible to create rooms on the server. Please contact "
+"support for help."
+msgstr ""
+"It is currently not possible to create rooms on the server. Please contact "
+"support for help."
+
+msgid "Join"
+msgstr "Start a Class"
+
+msgid "Manage"
+msgstr "Manage"
+
+msgid "Meeting"
+msgstr "Class"
+
+msgid "Moderator Code"
+msgstr "Moderator Code"
+
+msgid "New Room"
+msgstr "New Room"
+
+msgid "No rooms found"
+msgstr "No rooms found"
+
+msgid "No rooms found in trash"
+msgstr "No rooms found in trash"
+
+msgid "Not all room logs were able to be imported to the new version."
+msgstr "Not all room logs were able to be imported to the new version."
+
+msgid "Not all rooms were able to be imported to the new version."
+msgstr "Not all rooms were able to be imported to the new version."
+
+msgid "Presentation"
+msgstr "Presentation"
+
+msgid "Protected"
+msgstr "Protected"
+
+msgid "Recordable"
+msgstr "Recordable"
+
+msgid "Recording"
+msgstr "Recording"
+
+msgid "Recordings"
+msgstr "Recordings"
+
+msgid "Room Archives"
+msgstr "Room Archives"
+
+msgid "Room Settings"
+msgstr "Room Settings"
+
+msgid "Room published"
+msgstr "Room published"
+
+msgid "Room published privately"
+msgstr "Room published privately"
+
+msgid "Room reverted to draft"
+msgstr "Room reverted to draft"
+
+msgid "Room scheduled"
+msgstr "Room scheduled"
+
+msgid "Room selection"
+msgstr "Room Selection"
+
+msgid "Room updated"
+msgstr "Room updated"
+
+msgid "Rooms"
+msgstr "Rooms"
+
+msgid "Rooms list"
+msgstr "Rooms list"
+
+msgid "Rooms list navigation"
+msgstr "Rooms list navigation"
+
+msgid "Save server settings bad server settings error message."
+msgstr ""
+"Error: The server cannot be reached. Are you sure the server is running and "
+"your settings are correct?"
+
+msgid "Save server settings bad url error message."
+msgstr "Error: the URL you have entered must end with '/bigbluebutton/'."
+
+msgid "Save server settings success message."
+msgstr "Success! Your room server settings have been saved."
+
+msgid "Search Rooms"
+msgstr "Search Rooms"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Shared Secret"
+msgstr "Shared Secret"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "The access code you have entered is incorrect. Please try again."
+msgstr "The access code you have entered is incorrect. Please try again."
+
+msgid "The form has expired or is invalid. Please try again."
+msgstr "The form has expired or is invalid. Please try again."
+
+msgid ""
+"The meeting has not started yet. Please wait for a moderator to start the "
+"meeting before joining."
+msgstr ""
+"The Class has not started yet. Please wait for a Teacher to start the class "
+"before joining."
+
+msgid ""
+"The meeting has not started yet. You will be automatically redirected to the "
+"meeting when it starts."
+msgstr ""
+"The Class has not started yet. You will be automatically redirected to the "
+"class when it starts."
+
+msgid "The room linked to this resource is not configured correctly."
+msgstr "The room linked to this resource is not configured correctly."
+
+msgid "The server settings explanation."
+msgstr ""
+"The settings listed below determine the BigBlueButton server that will be "
+"used for the live sessions."
+
+msgid "The token: %s is not associated with a published room."
+msgstr "The token: %s is not associated with a published room."
+
+msgid "The token: %s is not associated with an existing room."
+msgstr "The token: %s is not associated with an existing room."
+
+msgid "There are no rooms in the selection."
+msgstr "There are no rooms in the selection."
+
+msgid "This room does not currently have any recordings."
+msgstr "This class does not currently have any recordings."
+
+msgid ""
+"This user does not have permission to display any rooms in a shortcode or "
+"widget."
+msgstr ""
+"This user does not have permission to display any rooms in a shortcode or "
+"widget."
+
+msgid "Unprotected"
+msgstr "Unprotected"
+
+msgid "Uploaded to this room"
+msgstr "Uploaded to this room"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "View Room"
+msgstr "View Room"
+
+msgid "View Rooms"
+msgstr "View Rooms"
+
+msgid "Viewer Code"
+msgstr "Viewer Code"
+
+msgid "Wait for Moderator"
+msgstr "Wait for Moderator"
+
+msgid ""
+"You do not have permission to enter the room. Please request permission."
+msgstr ""
+"You do not have permission to enter the class. Please request permission."
+
+msgid "false"
+msgstr "false"
+
+msgid "true"
+msgstr "true"
